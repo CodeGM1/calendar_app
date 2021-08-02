@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "307416920611",
+    "firebase_url": "https://randomproject-cc55c-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "randomproject-cc55c",
+    "storage_bucket": "randomproject-cc55c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:307416920611:android:70cfe6c4d2e6a16308b796",
+        "android_client_info": {
+          "package_name": "com.example.calendar_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "307416920611-r4ftpa61sa0959av7lm5uj65cc3rqdf9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCW_bM5_n-HqD_m9L1eFi9m92TsPjmUHbQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "307416920611-r4ftpa61sa0959av7lm5uj65cc3rqdf9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
